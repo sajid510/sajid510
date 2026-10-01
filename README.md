@@ -22,10 +22,10 @@ I am leading a 3-member robotics research group building a fully autonomous mobi
 
 Targeting a **fully funded MSc / Research Assistantship** in Robotics, Autonomous Systems, or Embedded AI — Japan (MEXT), Korea (GKS), Germany (DAAD), Taiwan (MOE), and professor-RA routes in Canada/US.
 
-- 📄 Paper #1 → IEEE conference submission (Oct 2026)
-- 🌏 IELTS 7.0+ (Dec 2026) · Professor outreach (Jan–Mar 2027)
-- 🎓 MEXT · GKS · AAS · Taiwan MOE submissions (by May 2027)
-- 🎓 Graduation Dec 2027 · Offer by Apr 2028
+- 📄 2 conference papers submitted: ICECE 2026 (BUET, IEEE co-sponsored) and ICCIT 2026 — under review.
+- 🌏 Featured Innovation — BEAR Innovation Expo 2026 (Dhaka, 25–26 July 2026). Ultron UV
+  presented to the Honorable Prime Minister of Bangladesh; coverage on national television.
+
 
 ## 🛰 Selected projects
 
