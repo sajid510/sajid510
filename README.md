@@ -49,14 +49,19 @@ Research prototype of an autonomous hospital disinfection robot, built by Team S
 
 | Project | Description |
 |---|---|
+| [**Ultron UV**](https://github.com/supersonic654e-byte/Ultron-UV-) | Autonomous disinfection robot — ROS2, SLAM, Nav2, LiDAR + RGB-D, Jetson Nano. Featured at BEAR Innovation Expo 2026 |
 | [**Robo_ULTRON**](https://github.com/supersonic654e-byte/Robo_ULTRON) | Low-cost autonomous robots for healthcare — ROS2, embedded control, safety, data pipeline |
-| [**Ultron-UV-**](https://github.com/supersonic654e-byte/Ultron-UV-) | Docs, architecture, safety, and exhibition materials for Ultron UV |
-| [**Career OS**](https://github.com/sajid510/career-os) | Self-learning career command center — Express + Firestore API, Gemini agent, web dashboard, Android app |
-| [**RoboWatch**](https://github.com/sajid510/robowatch) | AI weekly robotics intelligence digest: RSS → Groq filter → Gemini narrative → email (51 tests) |
-| [**Career Intelligence Agent OS**](https://github.com/sajid510/career-intelligence-agent-os) | Private career engine: evidence intake, outreach drafts, scholarship radar, daily briefing |
 | [**TeamPulse**](https://github.com/sajid510/team-pulse) | AI team dashboard — upload a project "bible", the AI plans phases/tasks/handoffs/milestones |
-| [**EEE Academic OS**](https://github.com/sajid510/EEE_Academic_OS) | Hybrid AI tutor + study analytics + deadline manager (Streamlit) |
 | [**NewsPulse**](https://github.com/sajid510/news-pulse) | Generalized AI news digest for any industry (config-driven) |
+| [**Career OS**](https://github.com/sajid510/career-os) | Self-learning career command center — Express + Firestore API, Gemini agent, web dashboard, Android app |
+| [**Career Intelligence Agent OS**](https://github.com/sajid510/career-intelligence-agent-os) | Private career engine: evidence intake, outreach drafts, scholarship radar, daily briefing |
+
+### More builds
+
+- [**RoboWatch**](https://github.com/sajid510/robowatch) — AI weekly robotics intelligence digest: RSS → Groq filter → Gemini narrative → email (51 tests)
+- [**EEE Academic OS**](https://github.com/sajid510/EEE_Academic_OS) — Hybrid AI tutor + study analytics + deadline manager (Streamlit)
+- [**ultron_devboard**](https://github.com/sajid510/ultron_devboard) — Real-time team command center for the Ultron UV robot build
+- [**All repositories**](https://github.com/sajid510) — 11 public repos on GitHub
 
 ## Tech Stack
 
